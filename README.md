@@ -1,46 +1,149 @@
-# Getting Started with Create React App
+<!-- Introdução -->
+<h1 align="center"> Projeto INSERIR  - :one: </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Descrição -->
+<p align="center">
+Este é um projeto pessoal desenvolvido em minha jornada como desenvolvedor,
+nele desenvolvi uma portifólio web, com suporte para telas de celulares e computadores.
+Meu portifólio contém projetos destacados, certificações, experiências e conhecimentos.
+</p>
 
-## Available Scripts
+#
+<!-- Habilidades -->
+<h2 align="center"> Habilidades Desenvolvidas: </h2>
 
-In the project directory, you can run:
+* Utilizei _ReactJS_ para construir páginas WEB responsiva e moderna. :heavy_check_mark:
+* Utilizei _React-ROuter-Dom_ para tornar minha página mais acessível, dinâmica e adaptavel. :heavy_check_mark:
+* Utilizei _CSS_ para adicionar estilo, posicionar elementos e proporcionar adaptabilidade a diferente tipos de dispositivos. :heavy_check_mark:
+* Utilizei _TypeScript_ para construir um código robusto e confiável. :heavy_check_mark:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#
+<!-- Preview -->
+<h2 align="center"> Preview: </h2>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<div align="center">
+  <div style="text-align:center">
+    <img src="./imgs/preview.png" width="768px" height="432px" alt="Preview"/>
+    <img src="./imgs/preview.png" width="384px" height="140px" alt="Imagem do projeto">
+  </div>
+</div>
 
-### `npm test`
+#
+<!-- Ferramentas utilizadas -->
+<details align="center">
+  <summary>
+	  <h2>Ferramentas e Tecnologias utilizadas:</h2>
+	</summary>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <div align="center">
 
-### `npm run build`
+  | Linguagens              | Tecnologias             | Bibliotecas             | Frameworks              |
+  | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+  | JavaScript              | HTML                    | ReactJS                 | Jest                    |
+  | TypeScript              | CSS                     | React Testing Library   | TypeScript              |
+  | ShellScript             | NPM                     | Bootstrap               | Types for TS            |
+  | .                       | Git                     | .                       | .                       |
+  | .                       | ContextApi              | .                       | .                       |
+  | .                       | ReactHooks              | .                       | .                       |
+  | .                       | React-Router            | .                       | .                       |
+  | .                       | LocalStorage            | .                       | .                       |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  </div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</details>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#
+<!-- Instalação e utilização -->
+<details align="center">
+  <summary>
+    <h2>Como instalar e utilizar o projeto:</h2>
+  </summary>
 
-### `npm run eject`
+<details>
+  <summary>
+    <h3>Especificações Tecnicas:</h3>
+  </summary>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  <div align="left">
+  
+  * Git - <i> `git -v` informará a versão em uso.</i>
+  * NPM V8+ - <i> `npm -v` informará a versão em uso.</i>
+  * ReactJS V-add-+ - <i> `-add-` informará a versão em uso.</i>
+  * React-Router-Dom V-add- - <i> `-add-` informará a versão em uso.</i>
+  * TypeScript V-add- - <i> `-add-` informará a versão em uso.</i>
+  * TypeScript-Types V-add- - <i> `-add-` informará a versão em uso.</i>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  </div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  #
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  </details>
 
-## Learn More
+    <div align="left">
+      
+      1. Faça a clonagem do projeto - <i>Descrição do comando em cinza</i>
+      > git clone -link do projeto-
+      2. instale as dependencias na Raiz do projeto - <i>Descrição do comando em cinza</i>
+      > npm install
+      3. Execute `comando destacado em laranja` na Raiz do projeto - <i>Descrição do comando em cinza</i>
+      >
+      4. Execute `comando destacado em laranja` na Raiz do projeto - <i>Descrição do comando em cinza</i>
+      > 
+      5. Execute `comando destacado em laranja` na Raiz do projeto - <i>Descrição do comando em cinza</i>
+      >
+      6. Execute `comando destacado em laranja` na Raiz do projeto - <i>Descrição do comando em cinza</i>
+      >
+      7. Execute `comando destacado em laranja` na Raiz do projeto - <i>Descrição do comando em cinza</i>
+      >
+      8. Execute `comando destacado em laranja` na Raiz do projeto - <i>Descrição do comando em cinza</i>
+      > <b>Nota:</b> `npm run db:reset` restaurará o DB em caso de erro.
+    
+    </div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+</details>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#
+<!-- Meu contato -->
+<h2 align="center"> Connect with me: </h2>
+
+<div align="center">
+  <a href="https://instagram.com/luanfgoncalves" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="50px" height="50px" target="_blank"></a>
+  <a href = "mailto:luanfgoncalves@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" width="50px" height="50px" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luanfgoncalves/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png" width="50px" height="50px" target="_blank"></a> 
+</div>
+
+<!-- programação | desenvolvimento | development | dev | webdeveloper| webdev| html | css | javascript | JS | python | py | Typescript | ts | Linux | react | redux | context | contextApi | docker | docker-compose | sql | mysql | nodeJS | frontend | backend | fullstack | bilingual | home office | stackoverflow | jest | RTL | mocha | sinnon | chai | . -->
+
+<!-- Exemplos:
+
+# h1
+## h2
+### h3
+#### h4
+##### h5 
+
+
+* Lista SImples
+2. Lista Ordenada
+> Comentário
+`Código destacado`
+
+
+1. Execute `comando destacado em laranja` na Raiz do projeto - <i>Descrição do comando em cinza</i> 
+
+  | Linguagens              | Tecnologias             | Ferramentas             | Metodologias            |
+  | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+  | id INT                  | id INT                  | sale_id INT (id)        | id INT (product_id)     |
+  | name VARCHAR            | user_id VARCHAR (id)    | product_id INT          | name VARCHAR            |
+  | email VARCHAR           | seller_id VARCHAR (id)  | quantity INT            | price DECIMAL(4,2)      |
+  | PASSWORD VARCHAR        | total_price DECIMAL     | .                       | url_image VARCHAR       |
+  | role VARCHAR            | delivery_adress VARCHAR | .                       | .                       |
+  | .                       | delivery_number VARCHAR | .                       | .                       |
+  | .                       | sale_date DATETIME      | .                       | .                       |
+  | .                       | status VARCHAR          | .                       | .                       |
+
+
+-->
+
+
